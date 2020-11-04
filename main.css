@@ -1,0 +1,13 @@
+.main {
+    border: solid 5px black;
+    text-align: initial;
+    margin-right: 400px;
+    padding: 10px;   
+}
+
+.header {
+    background-image: url('images/header-background.jpg');
+    background-size: cover;
+    background-position: center;
+    position: relative;
+  }
